@@ -1,10 +1,18 @@
 [
-{
-name: "mainUrl",
-value: "https://masj-id.pekanbaru.go.id"
-},
-{
-name: "name",
-value: "value"
-}
+    {
+        "name": "mainUrl",
+        "value": "https://masj-id.pekanbaru.go.id"
+    },
+    {
+        "name1": "name1",
+        "value1": "value1"
+    },
+    {
+        "name2": "name2",
+        "value2": "value2"
+    },
+    {
+        "name3": "name3",
+        "value3": "value3"
+    }
 ]
