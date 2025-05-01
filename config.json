@@ -14,5 +14,9 @@
     {
         "name": "name3",
         "value": "value3"
+    },
+    {
+        "name": "harga",
+        "value": "harga"
     }
 ]
