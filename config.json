@@ -1,6 +1,9 @@
-[
-    {
-        "name": "mainUrl",
-        "value": "https://masj-id.pekanbaru.go.id"
-    }
-]
+{
+    "name": "Masjid Raya Jakarta",
+    "server": "https://masj-id.jakarta.go.id",
+    "server_backup": "https://backup2.masj-id.id",
+    "server_alt": "https://masjidjakarta.example.com",
+    "location": "Jakarta",
+    "timezone": "Asia/Jakarta",
+    "logo": "https://masj-id.jakarta.go.id/assets/logo.png"
+  }
