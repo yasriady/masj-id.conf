@@ -1,9 +1,1 @@
-{
-    "name": "Masjid Raya Jakarta",
-    "server": "https://masj-id.pekanbaru.go.id",
-    "server_backup": "https://backup2.masj-id.id",
-    "server_alt": "https://masjidjakarta.example.com",
-    "location": "Jakarta",
-    "timezone": "Asia/Jakarta",
-    "logo": "https://masj-id.pekanbaru.go.id/assets/logo.png"
-  }
+
